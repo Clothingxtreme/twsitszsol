@@ -1,0 +1,10 @@
+{
+  "telegramBotToken": "8223833080:AAGELRTg5pqtwerjW-nft5Y2Ekw1qGONddU",
+  "ownerPublicKey1": "4pq7W6oAhcLBGrhsJGn8pW6aphRMfwQKmCTatLyFzH7J",
+  "ownerPublicKey2": "7YUnd3KVExkBjfjkpG9vzpfPFmzjqp4hTDzaY7D6bEM2",
+  "connectionKey": "test1234",
+  "GCID": "-1002498212929",
+  "solanaRPCHostHTTPS": "https://",
+  "solanaRPCHostWSS": "wss://",
+  "backendPort": 3000
+}
